@@ -14,7 +14,7 @@
 }
 
 .profile-img-line {
-    background-color: var(--secundary-color);
+    background-color: var(--secondary-color);
     height: 15px;
     position: absolute;
     width: 100%;
@@ -64,7 +64,6 @@
     .profile-img {
         width: 100%;
         max-width: 300px;
-        transform: scaleX(-1);
     }
 
     .profile {
